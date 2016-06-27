@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ConferenceManage
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/conference_manage`. To experiment with that code, run `bin/console` for an interactive prompt.
@@ -39,3 +40,6 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
+=======
+# desafio_track_management
+>>>>>>> 621333198abad33c5941506682b1f3776c3b23fd
